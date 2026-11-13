@@ -1,0 +1,14 @@
+{
+  "target_sizes": [
+    { "width": 2556, "height": 1179 },
+    { "width": 1179, "height": 2556 },
+    { "width": 2622, "height": 1206 },
+    { "width": 1206, "height": 2622 }
+  ],
+  "extension_mode": "gradient",
+  "fallback_color": "#20212A",
+  "sharpening": 0,
+  "inner_margin": 0,
+  "output_format": "PNG",
+  "png_compress_level": 6
+}
